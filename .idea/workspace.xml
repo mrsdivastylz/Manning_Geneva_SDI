@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03c38b26-2695-43c7-a877-91a1549ddc4e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Setup GitHub/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Manning_Geneva_Flowchart_Assignment/Manning_Geneva_Flowchart_Assignment.pdf" afterPath="$PROJECT_DIR$/Manning_Geneva_Flowchart_Assignment/Manning_Geneva_Flowchart_Assignment.pdf" />
     </list>
     <ignored path="Manning_Geneva_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
