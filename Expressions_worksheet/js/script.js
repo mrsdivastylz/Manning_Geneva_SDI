@@ -72,3 +72,24 @@ var average = total / 5; //calculating the average of grocery shopping by the we
 var result =("You have spent $" + total + " on groceries over 5 weeks, what is an average of $" + average + " per week. "); //This is the results the user wil see.
 alert(result); //The output that the user sees.
 console.log(result); //This output get logged into the console.
+
+//Discounts
+//Calculating the discounted price with and without sales tax
+
+var descriptionOfItem; //declaring the variables
+var originalPrice; //declaring the variables
+var discountedPrice;//declaring the variables
+var salesTaxPercentage;//declaring the variables
+var totalWithTax; //declaring variables
+var totalWithOutTax; //declaring variables
+var result; //declaring variables
+
+descriptionOfItem = prompt("What is the name of the item?"); //User prompt for name of item.
+originalPrice = prompt("What is the original price of item?"); //User prompt to enter original price.
+discountedPrice = prompt("What is the discounted price?"); //User prompt to enter the discounted price.
+salesTaxPercentage = prompt("what is the sales tax percentage?"); //User prompt to enter sales tax percentage.
+totalWithTax = discountedPrice * salesTaxPercentage; //This is how much the item is with tax.
+totalWithOutTax = discountedPrice; //This how much the item is with the tax not added.
+result = ("Your " + descriptionOfItem + " was originally $" + originalPrice + ", but after a " + salesTaxPercentage + " discount, it is now $" + totalWithOutTax + " and $" + totalWithTax + " with tax."); //this is the output that the users sees.
+alert(result); //this is what the users sees.
+console.log(result);// this is logged onto the console.
