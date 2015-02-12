@@ -54,7 +54,7 @@ var pizzaPerPerson; //This lets us know how many slices each person gets.
 var result; // This gives us the results to how many slices of pizza Sparky the dog gets.
 //Defining the variables
 slicesPerPizza = prompt("How many slices per pizza?"); //This prompts the user to put in information about how many slices per pizza is in a box.
-peopleAtParty = prompt("How many people art at the party?"); //This prompt the user to put in information about how many people is at the party.
+peopleAtParty = prompt("How many people are at the party?"); //This prompt the user to put in information about how many people is at the party.
 pizzasOrdered = prompt("How many pizzas was ordered?"); //This prompt the user to put in information about how many pizzas was ordered.
 pizzaPerPerson = (slicesPerPizza * pizzasOrdered)  -  (peopleAtParty * 2); //This results show how many of slices Sparky will get.
 result = ("Sparky got " + pizzaPerPerson + " slices of pizza."); //Calculation of how many slices Sparky gets.
@@ -66,6 +66,9 @@ console.log(result); //The result get logged into the console.
 //Average Shopping Bill
 //Calculating the average of a weekly grocery shopping spending over 5 weeks.
 
-var groceryShopping = [170, 120, 145, 130, 128];
-var total = groceryShopping[0] + groceryShopping[1] + groceryShopping[2] groceryShopping[3] groceryShopping[4];
-alert(total);
+var groceryShopping = [170, 120, 145, 130, 128];//This is an expression with Arrays
+var total = groceryShopping[0] + groceryShopping[1] + groceryShopping[2] + groceryShopping[3] + groceryShopping[4]; //calculating the total of all the arrays.
+var average = total / 5; //calculating the average of grocery shopping by the week.
+var result =("You have spent $" + total + " on groceries over 5 weeks, what is an average of $" + average + " per week. "); //This is the results the user wil see.
+alert(result); //The output that the user sees.
+console.log(result); //This output get logged into the console.

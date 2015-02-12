@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03c38b26-2695-43c7-a877-91a1549ddc4e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Expressions_worksheet/AssociatingJS/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Expressions_worksheet/AssociatingJS/.idea/AssociatingJS.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Expressions_worksheet/AssociatingJS/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Expressions_worksheet/AssociatingJS/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Expressions_worksheet/AssociatingJS/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Expressions_worksheet/AssociatingJS/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Expressions_worksheet/AssociatingJS/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Expressions_worksheet/AssociatingJS/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Expressions_worksheet/AssociatingJS/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Expressions_worksheet/AssociatingJS/js/script.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_worksheet/js/script.js" afterPath="$PROJECT_DIR$/Expressions_worksheet/js/script.js" />
     </list>
     <ignored path="Manning_Geneva_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,8 +39,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Expressions_worksheet/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8684211" vertical-offset="456" max-vertical-offset="1140">
-              <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.8903509" vertical-offset="501" max-vertical-offset="1200">
+              <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -382,8 +372,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_worksheet/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8684211" vertical-offset="456" max-vertical-offset="1140">
-          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.8903509" vertical-offset="501" max-vertical-offset="1200">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
           <folding />
         </state>
       </provider>
