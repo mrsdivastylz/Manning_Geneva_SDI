@@ -12,7 +12,7 @@
 var payRate;//I am declaring the variable payRate.
 payRate = prompt("What is your pay rate by the hour");//I am defining the variable payRate.
 
-var hoursPerDay = ['Sun', 'Mon', 'Tue', 'Wed', 'Thurs', 'Fri', 'Sat'];//This is my array collecting information.
+hoursPerDay = ['Sun', 'Mon', 'Tue', 'Wed', 'Thurs', 'Fri', 'Sat'];//This is my array collecting information.
 hoursPerDay[0] = prompt('How many hours did you work on Sunday?');// Prompting user for information of hours worked on Sunday.
 hoursPerDay[1] = prompt('How many hours did you work on Monday?');//Prompting user for information of hours worked on Monday.
 hoursPerDay[2] = prompt('How many hours did you work on Tuesday?');//Prompting user for information of hours worked on Tuesday.
