@@ -19,12 +19,29 @@ hoursPerDay[5] = prompt("How many hours did you work on Friday?");//This prompts
 hoursPerDay[6] = prompt("How many hours did you work on Saturday?");//This prompts the user to enter how many hours they worked on Saturday.
 
 var payRate;
+payRate = prompt("What is your pay rate by the hour");
 var totalHoursWorked;
+totalHoursWorked = hoursPerDay[0] + hoursPerDay[1] + hoursPerDay[2] + hoursPerDay[3] + hoursPerDay[4] + hoursPerDay[5] + hoursPerDay[6];
 var regularHoursWorked;
+regularHoursWorked = prompt("How many regular hours did you work?");
 var overtimeHoursWorked;
+overtimeHoursWorked = totalHoursWorked - 40;
 var totalPay;
+totalPay = regularPay + overtimePay;
 var regularPay;
+regularPay = payRate * regularHoursWorked;
 var overtimePay;
-var result;
+overtimePay = regularPay + (regularPay / 2);
+
+result =("You have worked a total of " + totalHoursWorked + " hours, " + regularHoursWorked + " regular hours and " +
+overtimeHoursWorked + " overtime hours.  " + " Your regular pay is " + regularPay + " and your overtime pay is " + overtimePay +
+", which gives you a total pay of " + totalPay + ".");
+
+alert(result);
+console.log(result);
+
+
+
+
 
 
