@@ -1,4 +1,3 @@
-alert("test");
 /**
  * Geneva Manning
  * 02/13/2015
@@ -43,6 +42,9 @@ overtimeHoursWorked + " overtime hours.  " + " Your regular pay is $" + regularP
 var result;//declaring the variable result
 alert(result);//this is an alert box that the users sees
 console.log(result);//this is logged into the console
+
+//I tested the program and for my payrate I said $9.50 and I put in the values of Sun 16 hrs, Mon 8 hrs, Tues 10 hrs, Wedne 8 hrs, Thurs 16 hrs, Frid 8 hrs, and Sat 0 hrs.
+//This calculated to 66 hrs a week. The result said You have worked a total of 66 hours, 40 regular hours and 26 overtime hours.   Your regular pay is $380 and your overtime pay is $570, which gives you a total pay of $950.
 
 
 
