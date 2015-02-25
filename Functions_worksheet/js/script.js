@@ -10,8 +10,8 @@ alert("JavaScript Works");
 
 
 //Parameters for function
-function calculatedCircumferenceOFCircle(radius)
+function calculatedCircumferenceOFCircle(radius) //defining the function name and setting the parameter
 {
-
+var circumference; //declaring my variable for the function.
 }
 
