@@ -16,5 +16,6 @@ var circumference;                       //declaring my variable for the functio
     circumference = 3.14 * (radius * 2); // This is the code that the function will run.
 
     return circumference;               // This is how I return the circumference back to the function.
+    console.log("This circumferece of the circle is " + circumference + "."); //This is the result that I will print to console.
 }
 
