@@ -39,3 +39,5 @@ function beeStingsNeeded(victimWeight)
 
     return totalStings;                        // This is the code to return the total number of bee stings to the function.
 }
+
+var totalStings = beeStingsNeeded(victimWeight)
