@@ -30,3 +30,10 @@ console.log("The circumference of the circle is  " + circumference); //The resul
 
 var victimWeight = prompt("Please enter a number to that will represent how many lbs the animal is.");//prompt for user to put in a weight for animals.
 var beeStings = 8.666666667;            //number of bee stings it take per pound to kill a animal.
+
+//Parameters for function
+
+function beeStingsNeeded(victimWeight)
+{
+
+}
