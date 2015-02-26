@@ -20,5 +20,5 @@ function calculatedCircumferenceOfCircle(radius) //defining the function name an
 
     return circumference;               // This is how I return the circumference back to the function.
 }
-var circumference = calculatedCircumferenceOfCircle(radius)
+var circumference = calculatedCircumferenceOfCircle(radius)//This is where I invoke my function.
 console.log("The circumference of the circle is  " + circumference); //The result that will print to console.
