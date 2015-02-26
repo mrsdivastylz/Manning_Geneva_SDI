@@ -40,4 +40,5 @@ function beeStingsNeeded(victimWeight)
     return totalStings;                        // This is the code to return the total number of bee stings to the function.
 }
 
-var totalStings = beeStingsNeeded(victimWeight)
+var totalStings = beeStingsNeeded(victimWeight)//This is where I invoke the function.
+console.log("It takes  " + totalStings + " to kill this animal.");
