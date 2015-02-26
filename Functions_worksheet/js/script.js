@@ -37,5 +37,5 @@ function beeStingsNeeded(victimWeight)
 {
  var totalStings = 8.666666667 * victimWeight; // This is the code that will run in the function.
 
-    return totalStings;
+    return totalStings;                        // This is the code to return the total number of bee stings to the function.
 }
