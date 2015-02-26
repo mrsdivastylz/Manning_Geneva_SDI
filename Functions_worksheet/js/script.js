@@ -41,4 +41,4 @@ function beeStingsNeeded(victimWeight)
 }
 
 var totalStings = beeStingsNeeded(victimWeight)//This is where I invoke the function.
-console.log("It takes  " + totalStings + " to kill this animal.");
+console.log("It takes  " + totalStings + " to kill this animal.");// Printing out the results to the console.
